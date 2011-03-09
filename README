@@ -1,0 +1,19 @@
+DeadRSX 0.1 Release 
+Author DarkhackerPS3
+
+this is it go to http://www.ps3sdk.com/ for documentation 
+
+
+to Install : --------------------------------------------
+
+(step 1) cd DeadRSX/
+
+(step 2) make 
+
+(step 3) make install
+
+---------------------------------------------------------
+
+
+then go to samples/ and make anything you like :D
+
